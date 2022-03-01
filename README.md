@@ -12,3 +12,9 @@
 * Spring-boot-starter 라이브러리와 thymeleaf 템플린 엔진
 * Spring boot 서버 프로그램의 빌드와 실행 방법
 * Static contents, MVC, API 방식에 대한 이해 
+
+### 2022-03-02
+* 비즈니스 요구사항을 충족하는 도메인, 레포지토리, 서비스 생성
+* 리포지토리, 서비스 테스트 케이스 작성
+* 스프링 빈(@Controller, @Repository, @Service → @Autowired) & 자바코드(@Configuration)를 이용하여 스프링 컨테이너에 컴포넌트 등록하기
+* 회원 관리 웹 MVC 개발
