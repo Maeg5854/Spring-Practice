@@ -1,7 +1,7 @@
 # Spring-Practice
 스프링 부트 강의 실습 업로드 repository 입니다!
 ### 수강 기간
-2022-02-13 ~ ing
+2022-02-13 ~ 2022-03-03
 ### 수강 강의
 * Inflearn [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://inf.run/vzCG)
 
@@ -18,3 +18,8 @@
 * 리포지토리, 서비스 테스트 케이스 작성
 * 스프링 빈(@Controller, @Repository, @Service → @Autowired) & 자바코드(@Configuration)를 이용하여 스프링 컨테이너에 컴포넌트 등록하기
 * 회원 관리 웹 MVC 개발
+
+### 2022-03-03
+* JPA를 이용한 ORM 기술
+* 스프링데이터 JPA를 이용한 JPA 단순화 & 자동화
+* AOP가 필요한 상황과 AOP 실습
